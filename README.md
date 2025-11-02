@@ -6,24 +6,19 @@
 
 
 ### 🤔 Myself?
-```cpp
-#include <string>
-#include <vector>
+```rust
+type Information = Vec<String>;
 
+fn myself() -> Information {
+    let shawon: Information = vec![
+        "PhD @ TU/e Eindhoven".to_string(),
+        "Open Source LLMs".to_string(),
+        "Learning Dyanmics in larger models, Evaluations".to_string(),
+        "Pytorch, CUDA".to_string(),
+        "Photography, Music, Books".to_string(),
+    ];
 
-typedef std::vector<std::string> Information;
-
-
-Information myself() {
-    Information shawon = {
-        "PhD @ TU/e Eindhoven"
-        "Open Source LLMs",
-        "Learning Dyanmics in larger models, Evaluations",
-        "Pytorch, CUDA",
-        "Photography, Music, Books"
-    };
-    
-    return shawon;
+    shawon
 }
 ```
 
