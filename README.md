@@ -22,4 +22,7 @@ fn myself() -> Information {
 }
 ```
 
+### Transitioning from Github
+Planning to move towards more EU hosted and privacy friendly alternatives to store my work. Hence, my projects are also going to be hosted on: https://codeberg.org/rashomon
+
 
