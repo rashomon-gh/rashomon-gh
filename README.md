@@ -2,7 +2,7 @@
 > Tinkering with bare metal
 
 
-[![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://shawonashraf.github.io)
+[![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://rashomon-gh.github.io)
 
 
 ### 🤔 Myself?
