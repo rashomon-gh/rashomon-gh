@@ -14,7 +14,7 @@ fn myself() -> Information {
         "PhD @ TU/e Eindhoven".to_string(),
         "Open Source LLMs".to_string(),
         "Learning Dyanmics in larger models, Evaluations".to_string(),
-        "Pytorch, CUDA".to_string(),
+        "Pytorch, CUDA, Jax, Pallas".to_string(),
         "Photography, Music, Books".to_string(),
     ];
 
