@@ -4,6 +4,11 @@
 
 [![Website](https://img.shields.io/badge/--website?label=Website&logo=safari&style=social)](https://rashomon-gh.github.io)
 
+## MOVED TO CODEBERG
+https://codeberg.org/rashomon
+
+I made the choice to move to codeberg for my work. I will still use github and maintain any existing projects but no new work will be here, unless I need to collaborate with people. 
+
 
 ### 🤔 Myself?
 ```rust
@@ -21,8 +26,5 @@ fn myself() -> Information {
     shawon
 }
 ```
-
-### Transitioning from Github
-Planning to move towards more EU hosted and privacy friendly alternatives to store my work. Hence, my projects are also going to be hosted on: https://codeberg.org/rashomon
 
 
